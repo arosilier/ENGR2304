@@ -1,5 +1,5 @@
 # ENGR2304
-Class repository for ENGR2304 at Alamo Colleges
+Class code repository for ENGR2304 at Alamo Colleges
 
 The code uploaded to this repository corresponds to the modules for the online version of ENGR2304 taught by Prof Rosilier at both San Antonio College and Palo Alto College.
 
