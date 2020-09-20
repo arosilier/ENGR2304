@@ -6,8 +6,8 @@
 // the program function properly. The starter code will ask the user to enter 
 // their budget for a shopping trip, and then ask them to enter the price for 
 // each item in their shopping basket. The program will  add up the total of 
-// all items in the cart, and alert the user when they have exceeded their budget 
-// for the trip.
+// all items in the cart, and alert the user when they have met or exceeded 
+// their budget for the trip.
 
 #include <iostream>
 #include <iomanip>
